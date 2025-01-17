@@ -8,5 +8,12 @@
 - **Personalizzazione:** Aggiungi o modifica i giorni di raccolta in base alle tue esigenze.
 - **Interfaccia Intuitiva:** Design moderno e facile da navigare.
 
+## Dove Funziona?
+Cavallino Lecce (LE)
+
+## TODO
+
+- **GPS:** Tramite gps recupera la posizione e la modalita di smaltimento della zona. 
+
 ## Screenshot
-![Screenshot dell'app](images/screenshot1.png)
+<img src="images/screenshot1.jpg" alt="Screenshot dell'app" width="300" />
